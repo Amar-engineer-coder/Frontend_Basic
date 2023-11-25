@@ -1,0 +1,71 @@
+* {
+    margin-left: 10%;
+}
+
+.button {
+    width: 1rem;
+    height: 1rem;
+    border: 2px solid black;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#blue {
+    background-color: blue;
+
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#pink {
+    background-color: red;
+}
+
+#purple {
+    background-color: purple;
+}
+button{
+    border-radius: 8px;
+    width: 10rem;
+    height: 1.5rem;
+    margin-left: 5%;
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+}
+p input{
+    border: 2px solid black;
+    border-radius: 3px;
+}
+#result{
+    margin-left: 2.5%;
+    font-weight: bold;
+}
+button{
+    margin-left:5%;
+}
+#clock{
+    height: 2rem;
+    width: 8rem;
+    border-radius: 8px;
+    background-color: black;
+    color: aliceblue;
+}
+#banner{
+    font-weight: 700;
+}
+#clock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
